@@ -12,18 +12,18 @@
         top: 0%;
         border-radius: 10px 10px 0px 0px;
         width: 100%;
-        height: 40%;
+        height: 20%;
     }
 
     #overlay {
         width: 100%;
-        height: 40%;
+        height: 20%;
         border-radius: 10px 10px 0px 0px;
     }
 
     .text-span{
         width: 100%;
-        height: 60%;
+        height: 80%;
         bottom: 0%;
     }
 
@@ -47,7 +47,7 @@
     .stats-info{
         position: absolute;
         top: 60%;
-        left: 40.5%;
+        left: 35%;
         width: 19%;
         height: 13.5%;
     }
@@ -64,20 +64,6 @@
     }
     #queries{
         top: 90%;
-    }
-    .attribution {
-    position: absolute;
-    bottom: -50%;
-    left: 30%;
-    margin-left: 0%;
-    font-size: 12px;
-    text-align: center;
-    color: hsla(0, 16%, 84%, 0.87);
-    /* border: 1px solid yellow; */
-    }
-
-    .attribution a {
-        color:var(--soft-violet);
     }
 
 }
